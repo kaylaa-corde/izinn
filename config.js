@@ -30,8 +30,8 @@ if (stickerpack.spackname == '') {
   var sticker_name = 'I hope you\'re fine'
   var sticker_author = 'KayyBotz'
 } else {
-  var sticker_name = 'kayybotz'
-  var sticker_author = 'Kayy'
+  var sticker_name = kayybotz
+  var sticker_author = Kayy
 }
 
 const file_exif = "lib/exif.json"
